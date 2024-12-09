@@ -34,7 +34,7 @@ The .Real file format is a proprietary format developed specifically for this me
 	•	Bit depth: 32-bit
 	•	Compression: Lossless
 
-Note: .Real files are designed to maintain the highest audio fidelity and large file size. Conversion tools for other formats may be provided in the future.
+# Note: .Real files are designed to maintain the highest audio fidelity and large file size. Conversion tools for other formats may be provided in the future.
 
 Contributing
 
