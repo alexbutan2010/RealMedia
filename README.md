@@ -30,9 +30,9 @@ Usage
 File Format: .Real
 
 The .Real file format is a proprietary format developed specifically for this media player. It supports:
-	•	Sampling rate: 192 kHz
-	•	Bit depth: 32-bit
-	•	Compression: Lossless
+	• Sampling rate: 384 kHz
+	• Bit depth: 32-bit
+	• Compression: Hi-Lossless
 
 # Note: 
 .Real files are designed to maintain the highest audio fidelity and large file size. Conversion tools for other formats may be provided in the future.
