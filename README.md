@@ -1,6 +1,5 @@
-# RealMedia
 
-# High-Quality Media Player
+# RealMedia
 
 A high-quality media player designed for audiophiles and media enthusiasts. This player supports playback of `.Real` files with exceptional audio fidelity at 192 kHz sampling rate and 32-bit depth, delivering unmatched sound clarity.
 
@@ -35,7 +34,7 @@ The .Real file format is a proprietary format developed specifically for this me
 	•	Bit depth: 32-bit
 	•	Compression: Lossless
 
-Note: .Real files are designed to maintain the highest audio fidelity. Conversion tools for other formats may be provided in the future.
+Note: .Real files are designed to maintain the highest audio fidelity and large file size. Conversion tools for other formats may be provided in the future.
 
 Contributing
 
