@@ -16,7 +16,7 @@ A high-quality media player designed for audiophiles and media enthusiasts. This
 
 ## Installation
 
-1. Clone the repository:
+1. Download for Windows:
   
     1. Go to releses and download the RealMedia.exe file
     2. Run the RealMedia.exe
