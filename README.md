@@ -9,7 +9,7 @@ A high-quality media player designed for audiophiles and media enthusiasts. This
 - **Lossless Audio Playback**: Ensure every detail of your audio is preserved.
 - **Intuitive User Interface**: A clean and user-friendly design for seamless operation.
 - **Advanced Audio Processing**: Enjoy enhanced playback with minimal distortion or noise.
-- **Cross-Platform Support**: Available for Windows, macOS, and Linux.
+- **Cross-Platform Support**: Available for Windows, macOS, and Linux.(not yet for linux and macOS)
 - **Playback Controls**: Full playback control, including play, pause, stop, seek, and volume adjustment.
 - **Playlist Management**: Create, save, and manage playlists for your favorite `.Real` files.
 - **Concerting from wav files**
